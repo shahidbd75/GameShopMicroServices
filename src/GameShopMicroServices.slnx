@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Folder Name="/Services/" />
+  <Folder Name="/Services/Catelog/">
+    <Project Path="Services/Catelog/GameShop.Catelog.API/GameShop.Catelog.API.csproj" Id="78ec2660-cb3a-44f6-8ddb-1ba81c6656d7" />
+  </Folder>
+</Solution>
